@@ -47,7 +47,7 @@ The [dataset](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment
 
 * **Training Data**: Contains tweet text and their respective sentiment labels (positive, negative, neutral, irrelevant).
 * **Validation Data**: Used to validate and test the model’s performance.
-# Usage
+## Usage
  1.Clone the repository:
  
 `git clone https://github.com/your-username/entity-sentiment-analysis.git`
